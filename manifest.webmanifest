@@ -1,0 +1,11 @@
+{
+  "name": "手書き図面 DXF 変換",
+  "short_name": "図面DXF",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#1f6feb",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
